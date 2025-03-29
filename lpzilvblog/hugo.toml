@@ -1,0 +1,5 @@
+baseURL = 'https://lpzilv.github.io/lp.github.io/'
+languageCode = 'en-us'
+title = 'Peng Zilv Blog'
+
+theme='hugo-PaperMod'

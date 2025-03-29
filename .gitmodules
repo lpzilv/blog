@@ -1,0 +1,4 @@
+[submodule "lpzilvblog/public"]
+	path = lpzilvblog/public
+	url = https://github.com/lpzilv/lp.github.io.git
+	branch = main
